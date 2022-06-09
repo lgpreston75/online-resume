@@ -1,6 +1,6 @@
 basic:
   name: Llion Preston
-  title: Data Scientist
+  title: Full Stack Data Scientist
   avatar:
     display: false
     path: profile.png
@@ -15,11 +15,15 @@ profile:
   display: true
   title: Profile
   details: |
-    Pragmatic Data Scientist able to design and implement robust full-stack ML solutions 
-    using modern tools and approaches (Docker, Infrastructure as Code, AWS). Equally happy
-    performing data insights and analytics function; defining and monitoring KPIs,
-    maintaining analytics infrastructure, prioritising and delivering requests for data driven
-    decision making.
+    Data Scientist able to design and implement robust data science solutions. 
+    Experience designing and implementing real-world data science platforms; developing models, inference APIs, 
+    databases, backend services etc. Enjoy pragmatically leveraging modern tools,
+    frameworks and approaches to produce elegant, powerful and robust solutions.
+
+    
+   
+  
+
 
 experiences:
   display: true
@@ -36,6 +40,7 @@ experiences:
         Lead efforts to leverage AWS CDK for infrastructure provision and deployment.
         + Contribute to product assignment system roadmap; developing proof of concept
         models using LightFM, Keras/Tensorflow.
+        + Maintained and added functionality to internal Python packages.
         + Developed Bayesian A/B Testing dashboard. Assisted Growth Specialist in 
         interpreting results and subsequent decision making.
         + Assisted in scoping and implementation of company's first Data Warehouse.
@@ -43,7 +48,6 @@ experiences:
          reverse ETL to marketing platforms.
         + Worked with Product Manager and other internal stakeholders on requests 
         for data and insights.
-        + Maintained and added functionality to internal Python packages.
         + Created Airflow DAGs and set up hosted Airflow service on AWS (MWAA).
 
 
