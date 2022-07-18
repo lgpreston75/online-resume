@@ -1,6 +1,6 @@
 basic:
   name: Llion Preston
-  title: Data Scientist
+  title: Data Scientist & Python Developer
   avatar:
     display: false
     path: profile.png
@@ -39,6 +39,10 @@ experiences:
         + Maintained and added functionality to internal Python packages.
         + Developed Bayesian A/B Testing dashboard. Assisted Growth Specialist in interpreting results and subsequent decision making.
         + Created Airflow DAGs and set up hosted Airflow service on AWS (MWAA).
+        + Contributed to recommendation system roadmap; developing proof of concept
+        models using LightFM, Keras/Tensorflow.
+
+
 
 
 
