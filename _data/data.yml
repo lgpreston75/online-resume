@@ -16,9 +16,8 @@ profile:
   title: Profile
   details: |
     Pragmatic Data Scientist able to design and implement robust full-stack ML solutions using modern tools and approaches. 
-    Six-plus years Python experience; able to produce robust, tested and scalable code. 
-    Data and development skills include Machine/Deep Learning, testing, Docker, API development, Cloud computing, data engineering. 
-    Comfortable communicating complex subjects with non-technical stakeholders.
+    Six-plus years Python experience; able to produce robust, tested and scalable code. Comfortable working on complex projects 
+    with technical and non-technical stakeholders alike.
 
 experiences:
   display: true
