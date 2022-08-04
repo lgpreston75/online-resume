@@ -84,7 +84,7 @@ skills:
   display: true
   title: Skills
   details: |
-    |   Geo & Data Science   |      |   Backend   |   Programming   |   Analytics & BI   |    |
+    |   Data Science   |      |   Backend   |   Programming   |   Analytics & BI   |    |
     |-------|--------|---------|---------|
     |   Pandas (& GeoPandas) |   Dask |   FastAPI |   Github/BitBucket |   Mode |   BigQuery    |
     |   SQL (inc. PostGIS) |   matplotlib|   flask |   Docker |   Weld |    |
