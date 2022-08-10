@@ -29,14 +29,12 @@ experiences:
       tag:
       location: Copenhagen
       details: |
-        + Contributed to restructuring of Bayesian product assignment system. Played an active role in scoping workshops and development of Python APIs and databases. Lead efforts to leverage AWS CDK for infrastructure provision and deployment.
-        + Contributed to recommendation system roadmap; developing proof of concept recommendation/classification models using LightFM, Keras/Tensorflow.
-        + Worked with Product Manager and other internal stakeholders on requests for data and insights.
-        + Assisted in scoping and implementation of company’s first Data Warehouse.
-        + On going Data Warehouse development; ETL, creating intermediate tables/views, reverse ETL to marketing platforms.
-        + Maintained and added functionality to internal Python packages.
-        + Developed Bayesian A/B Testing dashboard. Assisted Growth Specialist in interpreting results and subsequent decision making.
-        + Created Airflow DAGs and set up hosted Airflow service on AWS (MWAA).
+        * Worked with stakeholders to define requirements for tables/views in Data Warehouse. Created required tables/views and documentation using Weld (a DBT-like tool).
+        * Collaborated with range of business stakeholders, including R&D, Finance, Growth and Product, to create, manage and update dashboards in Mode.
+        * Lead development of backend API for managing data submitted through survey hosted on website. API developed in FastAPI following TDD process. Deployed on AWS Fargate service using AWS Cloud Development Kit and BitBucket Pipelines.
+        * Helped define roadmap for product-assignment models; collaborated with Product Manager and Lead Data Scientist to scope and develop proof-of-concepts.
+        * Contributed unit-tested features/bug fixes for internal Python packages.
+        * Helped administrate Airflow DAGs used for retraining product assignment models.
 
 
 
@@ -47,21 +45,20 @@ experiences:
       company: Rapha
       location: London
       details: |
-        + Developed and maintained PowerBI reports for range of internal departments including Merchandising, Customer Service, Retail Operations.
-        + Conducting ad-hoc deep dives for Leadership Team, examples include estimating lost revenue from out of stock products and analysing repeat purchasing patterns of newly acquired customers.
-        + Developed Customer Lifetime Value and Churn models to inform CRM, Digital Marketing and Business Insights efforts. Inference REST API deployed with AzureML.
-        + Developed Python program to optimise rapha.cc product grids to maximise revenue and minimise page views for out of stock products.
+        * Lead long-term research project with aim of predicting crop (Corn, Soybean, Cotton) production estimates from meteorological data and satellite imagery.
+        * Developed Python scripts for accessing, processing, storing and visualising meteorological data from a range of NetCDF, GRIB and CSV file types.
+        * Modelled and created database to store commodity tradeflow statistics. Hosted using Azure PaaS MySQL DB and updated using ETL Python script.
+        * Mentored Junior Data Scientist, providing assistance with their day-to-day duties and helping developing their technical skills.
 
     - role: Commodity Analyst
       time: 2016.07 - 2019.11
       company: Armarjaro Asset Management & ECOM Agrotrade
       location: London
       details: |
-        + Lead long-term research project with aim of predicting crop (Corn, Soybeans, Cotton) production estimates from meteorological data and satellite imagery.
-        + Developed necessary Python tooling for accessing, processing, storing and visualising satellite and meteorological data from a range of sources, including MODIS (inc. derived products like SST), Sentinel, SMAP, near real-time weather stations, ECMWF forecasts and satellite-derived precipitation estimates.
-        + Responsible for developing and managing data processing for operational weather forecasts; maintaining Linux virtual machine used for processing, ensuring FTP delivery of forecasts, processing forecast products prior to visualisation, developing Python scripts/tooling for visualising data.
-        + Provide vacation cover to Head Meteorologist, circulating forecast reports and answering ad-hoc questions from commodity traders. Also acted as technical point of contact with ECMWF.
-        + Mentored Junior Data Scientist, providing assistance with their day-to-day duties and developing their technical skills.
+        * Lead long-term research project with aim of predicting crop (Corn, Soybean, Cotton) production estimates from meteorological data and satellite imagery.
+        * Developed Python scripts for accessing, processing, storing and visualising meteorological data from a range of NetCDF, GRIB and CSV file types.
+        * Modelled and created database to store commodity tradeflow statistics. Hosted using Azure PaaS MySQL DB and updated using ETL Python script.
+        * Mentored Junior Data Scientist, providing assistance with their day-to-day duties and helping developing their technical skills.
 
 projects:
   display: false
@@ -104,19 +101,12 @@ education:
       major: Remote Sensing and Geographical Information Systems
       degree: MSc - Distinction
       details: |
-        + Gained a deep theoretical and practical understanding of remote sensing. Studies covered passive & active remote sensing (optical/SAR/LiDAR), theory of remote sensing (electromagnetic spectrum, calibration and correction of remote sensing data), image processing.
-        + Built knowledge on a range of modelling techniques related to satellite and geospatial data, including: supervised and un-supervised image classification, regression techniques, PCA.
-        + Developed skills across a range of tools including: Python scientific stack (NumPy, SciPy, pandas, GDAL etc.), R, ERDAS Imagine, ArcMAP, QGIS
-        + Work experience module conducted with environmental and agricultural data consultancy ([https://www.envsys.co.uk](https://www.envsys.co.uk/))
-        + Thesis: Forest Biomass estimation from UAV captured Structure from Motion (SfM) Surface Models
 
     - university: Aberystwyth University
       time: 2012 - 2015
       major: Geography
       degree: BSc - Second Class Honours, Division 1
       details: |
-        + Developed an interest in scientific computing and statistics through 
-        Remote Sensing, GIS and Core Research modules
 
 certificates:
   display: true
