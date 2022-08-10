@@ -82,10 +82,10 @@ skills:
   title: Skills
   details: |
     |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-    | **Data Pipelines/Transformation** - Azure Data Factory, Databricks, Weld, DBT, Airflow            | **Databases/Data Warehouses** - PostgreSQL, BigQuery, SQL Server etc.                      |
+    | **Data Pipelines/Transformation** - Data Factory, Databricks, Weld, DBT, Airflow            | **Databases/Data Warehouses** - PostgreSQL, BigQuery, SQL Server etc.                      |
     | **Developing APIs** - FastAPI, Flask, Chalice, ORMs                                               | **Cloud technologies** - AWS, Azure, GCP                                                          |
     | **DevOps** - Github, Bitbucket, CI/CD, Docker                                                     | **Creating Dashboards/Reports** - Mode, PowerBI, Streamlit, Hex                                           |
-    | **Unit/Integration Testing, Data Validation** - pytest, testcontainers, pydantic, pandera         | **Data Analysis** - Pandas, SQL, Jupyter notebooks                                                |
+    | **Testing & Validation** - pytest, testcontainers, pydantic, pandera         | **Data Analysis** - Pandas, SQL, Jupyter notebooks                                                |
     | **Predictive Modelling/Machine Learning** - scikit-learn, statsmodels, tensorflow/keras, LightGBM |                                                                                               |
 
 
