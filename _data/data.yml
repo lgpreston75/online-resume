@@ -84,13 +84,13 @@ skills:
   display: true
   title: Skills
   details: |
-    |   Data Science   |      |   Backend   |   Programming   |   Analytics & BI   |    |
-    |-------|--------|---------|---------|
-    |   Pandas (& GeoPandas) |   Dask |   FastAPI |   Github/BitBucket |   Mode |   BigQuery    |
-    |   SQL (inc. PostGIS) |   matplotlib|   flask |   Docker |   Weld |    |
-    |   statsmodels |  xarray  |   SQLAlchemy/SQLModel |   CircleCI |   PowerBI |    |
-    |   Tensorflow/Keras |   R |   pytest |   AWS CDK |   Airflow |    |
-    |   sklearn |   QGIS |   Chalice |   Azure | | |
+    |                                                                                               |                                                                                               |
+    |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+    | Data Pipelines/Transformation - Azure Data Factory, Databricks, Weld, DBT, Airflow            | Database/Data Warehouse Management PostgreSQL, BigQuery, SQL Server etc.                      |
+    | Developing APIs - FastAPI, Flask, Chalice, ORMs                                               | Cloud technologies - AWS, Azure, GCP                                                          |
+    | DevOps - Github, Bitbucket, CI/CD, Docker                                                     | Creating dashboards - Mode, PowerBI, Streamlit, Hex                                           |
+    | Unit/Integration Testing, Data Validation - pytest, testcontainers, pydantic, pandera         | Data Analysis - Pandas, SQL, Jupyter notebooks                                                |
+    | Predictive Modelling/Machine Learning - scikit-learn, statsmodels, tensorflow/keras, LightGBM |                                                                                               |
 
 
 
