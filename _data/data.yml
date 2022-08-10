@@ -1,6 +1,6 @@
 basic:
   name: Llion Preston
-  title: Data Scientist
+  title: Data Scientist & Python Developer
   avatar:
     display: false
     path: profile.png
@@ -15,9 +15,10 @@ profile:
   display: true
   title: Profile
   details: |
-    Pragmatic Data Scientist able to design and implement robust full-stack ML solutions using modern tools and approaches. 
-    Six-plus years Python experience; able to produce robust, tested and scalable code. Comfortable working on complex projects 
-    with technical and non-technical stakeholders alike. Passionate about leveraging data to improve the lives of others.
+    Pragmatic Data Scientist/Python Developer able to design and implement robust 
+    full-stack data platforms using modern tools and approaches (Docker, Serverless, 
+    Infrastructure as Code, AWS, etc). Hoping to leverage extensive Python and data 
+    engineering experience in a Data Engineer role.
 
 experiences:
   display: true
