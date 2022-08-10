@@ -119,20 +119,15 @@ education:
         Remote Sensing, GIS and Core Research modules
 
 certificates:
-  display: false
+  display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
+    - name: DBT Fundamentals
+      authority: dbt labs
+      time: 2022
+      link: https://tinyurl.com/ydvwe24p
       details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
+        This demonstrates fundamental understanding of models, sources, tests, docs, and deployment in dbt
 
 publications:
   display: false
