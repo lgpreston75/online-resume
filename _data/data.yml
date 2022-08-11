@@ -30,7 +30,7 @@ experiences:
       tag:
       location: Copenhagen
       details: |
-        * Worked with stakeholders to define requirements for tables/views in Data Warehouse. Created required tables/views and documentation using Weld (a DBT-like tool).
+        * Worked with stakeholders to define requirements for tables/views in Data Warehouse. Created required tables, views and documentation using Weld (a DBT-like tool).
         * Collaborated with range of business stakeholders, including R&D, Finance, Growth and Product, to create, manage and update dashboards in Mode.
         * Lead development of backend API for managing data submitted through survey hosted on website. API developed in FastAPI following TDD process. Deployed on AWS Fargate service using AWS Cloud Development Kit and BitBucket Pipelines.
         * Helped define roadmap for product-assignment models; collaborated with Product Manager and Lead Data Scientist to scope and develop proof-of-concepts.
