@@ -49,7 +49,7 @@ experiences:
         - Created and managed Data Warehouse ETL jobs using Azure Data Factory and Databricks.
         - Collaborated with range of business stakeholders, including Merchandising, Customer Service, Retail Operations to create, manage and update dashboards in PowerBI.
         - Conducted ad-hoc deep dives for Senior Leadership Team. Examples include estimating lost revenue from out of stock products and analysing repeat purchasing patterns of newly acquired customers.
-        - Collaborated with Ecommerce Trading Manager to develop system to programatically optimise order of web-shop product grids. It improved customer experience by hiding out of stock products.
+        - Collaborated with Ecommerce Trading Manager to develop system to programatically optimise order of web-shop product grids. 
         - Developed item-to-item “similar products” recommendation system using LightFM Python library. Recommendations were uploaded to e-commerce platform and shown on all product listing pages on rapha.cc.
         - Developed Customer Lifetime Value and Churn models to inform CRM, Digital Marketing and Business Insights efforts. Developed using AzureML MLOps framework and deployed using REST API.
 
