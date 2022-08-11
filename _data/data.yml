@@ -34,7 +34,7 @@ experiences:
         * Collaborated with range of business stakeholders, including R&D, Finance, Growth and Product, to create, manage and update dashboards in Mode.
         * Lead development of backend API for managing data submitted through survey hosted on website. API developed in FastAPI following TDD process. Deployed on AWS Fargate service using AWS Cloud Development Kit and BitBucket Pipelines.
         * Helped define roadmap for product-assignment models; collaborated with Product Manager and Lead Data Scientist to scope and develop proof-of-concepts.
-        * Contributed unit-tested features/bug fixes for internal Python packages.
+        * Contributed unit-tested and documented features/bug fixes for internal Python packages.
         * Helped administrate Airflow DAGs used for retraining product assignment models.
 
 
