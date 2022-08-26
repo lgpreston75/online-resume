@@ -88,10 +88,10 @@ skills:
   details: |
     |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
     | **Predictive Modelling/Machine Learning** - scikit-learn, statsmodels, tensorflow/keras, LightGBM, pyMC | **Data Pipelines/Transformation** - Data Factory, Databricks, Weld, DBT, Airflow| 
-    | **Databases/Data Warehouses** - PostgreSQL, BigQuery, SQL Server etc.| **Developing APIs** - FastAPI, Flask, Chalice, ORMs| **Cloud technologies** - AWS, Azure, GCP|
+    | **Databases/Data Warehouses** - PostgreSQL, BigQuery, SQL Server etc.| **Developing APIs** - FastAPI, Flask, Chalice, ORMs|
     | **DevOps** - Github, Bitbucket, CI/CD, Docker| **Creating Dashboards/Reports** - Mode, PowerBI, Streamlit, Hex|
     | **Testing & Validation** - pytest, testcontainers, pydantic, pandera| **Data Analysis** - Pandas, SQL, Jupyter notebooks|
-    
+    | **Cloud technologies** - AWS, Azure, GCP|
 
 
 
