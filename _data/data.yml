@@ -1,6 +1,6 @@
 basic:
   name: Llion Preston
-  title: Data Scientist & Python Developer
+  title: Data Scientist
   avatar:
     display: false
     path: profile.png
@@ -15,10 +15,10 @@ profile:
   display: true
   title: Profile
   details: |
-    Pragmatic Data Scientist/Python Developer with broad range of data expertise.
-    Six-plus years Python experience; able to produce robust, tested and scalable code
-     using modern tools and approaches. Comfortable working on complex projects with technical and non-technical stakeholders alike.
-     Hoping to leverage extensive Python and data engineering experience in a Data Engineer role.
+    Pragmatic Data Scientist able to design and implement robust full-stack ML solutions using modern tools and approaches.
+     Six-plus years Python experience; able to produce robust, tested and scalable code. 
+     Data and development skills include Machine/Deep Learning, testing, Docker, API development, cloud computing, data engineering.
+      Comfortable communicating complex subjects with non-technical stakeholders.
 
 experiences:
   display: true
@@ -30,10 +30,10 @@ experiences:
       tag:
       location: Copenhagen
       details: |
+        * Helped define roadmap for product-assignment models; collaborated with Product Manager and Lead Data Scientist to scope and develop proof-of-concepts.
+        * Lead development of backend API for managing data submitted through survey hosted on website. API developed in FastAPI following TDD process. Deployed on AWS Fargate service using AWS Cloud Development Kit and BitBucket Pipelines.
         * Worked with stakeholders to define requirements for tables/views in Data Warehouse. Created required tables, views and documentation using Weld (a DBT-like tool).
         * Collaborated with range of business stakeholders, including R&D, Finance, Growth and Product, to create, manage and update dashboards in Mode.
-        * Lead development of backend API for managing data submitted through survey hosted on website. API developed in FastAPI following TDD process. Deployed on AWS Fargate service using AWS Cloud Development Kit and BitBucket Pipelines.
-        * Helped define roadmap for product-assignment models; collaborated with Product Manager and Lead Data Scientist to scope and develop proof-of-concepts.
         * Contributed unit-tested and documented features/bug fixes for internal Python packages.
         * Helped administrate Airflow DAGs used for retraining product assignment models.
 
@@ -46,19 +46,21 @@ experiences:
       company: Rapha
       location: London
       details: |
+        - Developed item-to-item “similar products” recommendation system using LightFM Python library. Recommendations were uploaded to e-commerce platform and shown on all product listing pages on rapha.cc.
+        - Developed Customer Lifetime Value and Churn models to inform CRM, Digital Marketing and Business Insights efforts. Developed using AzureML MLOps framework and deployed using REST API.
         - Created and managed Data Warehouse ETL jobs using Azure Data Factory and Databricks.
         - Collaborated with range of business stakeholders, including Merchandising, Customer Service, Retail Operations to create, manage and update dashboards in PowerBI.
         - Conducted ad-hoc deep dives for Senior Leadership Team. Examples include estimating lost revenue from out of stock products and analysing repeat purchasing patterns of newly acquired customers.
         - Collaborated with Ecommerce Trading Manager to develop system to programatically optimise order of web-shop product grids. 
-        - Developed item-to-item “similar products” recommendation system using LightFM Python library. Recommendations were uploaded to e-commerce platform and shown on all product listing pages on rapha.cc.
-        - Developed Customer Lifetime Value and Churn models to inform CRM, Digital Marketing and Business Insights efforts. Developed using AzureML MLOps framework and deployed using REST API.
+        
 
     - role: Commodity Analyst
       time: 2016.07 - 2019.11
       company: Armarjaro Asset Management & ECOM Agrotrade
       location: London
       details: |
-        * Lead long-term research project with aim of predicting crop (Corn, Soybean, Cotton) production estimates from meteorological data and satellite imagery.
+        * Managed long-term research project with University of Reading academics to develop crop production estimates from meteorological data and satellite imagery.
+        * Performed wide range of regression/time series modelling tasks with a view to predicting crop production.
         * Developed Python scripts for accessing, processing, storing and visualising meteorological data from a range of NetCDF, GRIB and CSV file types.
         * Modelled and created database to store commodity tradeflow statistics. Hosted using Azure PaaS MySQL DB and updated using ETL Python script.
         * Mentored Junior Data Scientist, providing assistance with their day-to-day duties and helping developing their technical skills.
@@ -85,12 +87,13 @@ skills:
   title: Skills
   details: |
     |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-    | **Data Pipelines/Transformation** - Data Factory, Databricks, Weld, DBT, Airflow| **Databases/Data Warehouses** - PostgreSQL, BigQuery, SQL Server etc.|
+    | **Predictive Modelling/Machine Learning** - scikit-learn, statsmodels, tensorflow/keras, LightGBM, pyMC |
+    | **Data Pipelines/Transformation** - Data Factory, Databricks, Weld, DBT, Airflow| 
+    | **Databases/Data Warehouses** - PostgreSQL, BigQuery, SQL Server etc.|
     | **Developing APIs** - FastAPI, Flask, Chalice, ORMs| **Cloud technologies** - AWS, Azure, GCP|
     | **DevOps** - Github, Bitbucket, CI/CD, Docker| **Creating Dashboards/Reports** - Mode, PowerBI, Streamlit, Hex|
     | **Testing & Validation** - pytest, testcontainers, pydantic, pandera| **Data Analysis** - Pandas, SQL, Jupyter notebooks|
-    | **Predictive Modelling/Machine Learning** - scikit-learn, statsmodels, tensorflow/keras, LightGBM | |
-
+    |
 
 
 
